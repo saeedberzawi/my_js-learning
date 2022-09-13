@@ -1,0 +1,12 @@
+ 0- title
+ 1- string
+ 2- number
+ 3- array
+ 4- conditions (if & switch)
+ 5- loop
+ 6- functions
+
+ 7- callback
+ 8- advanced array
+ 9- object oriented programming
+10- advaced functions
